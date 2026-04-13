@@ -76,10 +76,12 @@ SQL queries were used to:
 ## 📊 Dashboard Screenshots
 
 ### 🔹 Summary Dashboard
-![Summary Dashboard](./Screenshots/summary_dashboard.png)
+<img width="780" height="385" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/f80622e0-e546-4dab-ba30-e45d1aaf213d" />
+
 
 ### 🔹 Overview Dashboard
-![Overview Dashboard](./Screenshots/overview_dashboard.png)
+<img width="809" height="381" alt="Summary Dashboard" src="https://github.com/user-attachments/assets/5177a544-a20f-46d7-a4db-af8845a75d60" />
+
 
 
 ## 📈 Key Insights & Business Impact
