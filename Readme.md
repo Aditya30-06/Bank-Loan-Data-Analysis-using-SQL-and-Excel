@@ -76,14 +76,10 @@ SQL queries were used to:
 ## 📊 Dashboard Screenshots
 
 ### 🔹 Summary Dashboard
-
-![Summary](./Screenshots/summary_dashboard.png)
+![Summary Dashboard](./Screenshots/summary_dashboard.png)
 
 ### 🔹 Overview Dashboard
-
-![Overview](./Screenshots/overview_dashboard.png)
-
----
+![Overview Dashboard](./Screenshots/overview_dashboard.png)
 
 ## 📈 Key Insights & Business Impact
 
