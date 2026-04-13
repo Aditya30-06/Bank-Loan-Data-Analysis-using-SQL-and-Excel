@@ -77,11 +77,11 @@ SQL queries were used to:
 
 ### 🔹 Summary Dashboard
 
-![Summary Dashboard](./summary_dashboard.png)
+![Summary](./Screenshots/summary_dashboard.png)
 
 ### 🔹 Overview Dashboard
 
-![Overview Dashboard](./overview_dashboard.png)
+![Overview](./Screenshots/overview_dashboard.png)
 
 ---
 
@@ -138,11 +138,13 @@ SQL queries were used to:
 
 ```
 Bank-Loan-Analysis/
-│── problem_statement.docx
-│── sql_queries.docx
-│── summary_dashboard.png
-│── overview_dashboard.png
-│── README.md
+│── Bank Loan Data/
+│── SQL Queries/
+│── Screenshots/
+│── Terminologies/
+│── Financial_Loan_Data.xlsx
+│── Problems Statements.docx
+│── Readme.md
 ```
 
 ---
@@ -165,12 +167,5 @@ It highlights:
 * Build an interactive dashboard using **Power BI**
 * Automate data pipeline using Python/SQL integration
 * Develop a **machine learning model** for loan default prediction
-
----
-
-## 🙌 Author
-
-**Aditya Birla**
-BTech (ECE) | Aspiring Data Analyst
 
 ---
